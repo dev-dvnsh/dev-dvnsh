@@ -2,8 +2,6 @@
 
 Creating problems and solving them.
 
-## About Me
-
 Backend-focused developer currently working mainly with Node.js while learning Go alongside it.
 I enjoy building tools, experimenting with ideas, and turning them into working systems.
 
