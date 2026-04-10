@@ -52,7 +52,7 @@ A location-based news platform that shows nearby updates using live location dat
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-dvnsh\&show_icons=true\&hide_border=true)
 
 ## Contact
 
