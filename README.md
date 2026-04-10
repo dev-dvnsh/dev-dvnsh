@@ -1,16 +1,60 @@
-## Hi there 👋
+# Devansh Bhardwaj
 
-<!--
-**dev-dvnsh/dev-dvnsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creating problems and solving them.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Backend-focused developer working mainly with **Node.js**
+* Currently learning **Go** alongside my main stack
+* Comfortable with **JavaScript**, **Python**, and **C syntax**
+* Working with **MongoDB** and exploring databases further
+
+## Tech
+
+* **Languages:** JavaScript, Go, Python, C
+* **Backend:** Node.js
+* **Databases:** MongoDB
+* **Other:** REST APIs, CLI tools
+
+## Projects
+
+### Student Management System
+
+A Node.js and MongoDB based system for managing students.
+Includes authentication, password reset via OTP, and server-side rendering.
+
+Tech used:
+
+* Node.js
+* MongoDB
+* JWT
+* bcrypt
+* nodemailer
+* EJS
+
+### DevArchitect
+
+An AI-assisted project architecture and planning tool designed to help developers structure projects and workflows more efficiently.
+
+### SearchUp
+
+A CLI tool that fetches knowledge directly in the terminal using the Wikipedia API.
+
+### NearYouNews
+
+A location-based news platform that shows nearby updates using live location data.
+
+## Currently Working On
+
+* DevArchitect
+* Improving CLI tooling with Go
+* Learning deeper backend architecture
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&hide_border=true)
+
+## Contact
+
+* LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+* Email: [dbhardwaj123411@gmail.com](mailto:dbhardwaj123411@gmail.com)
