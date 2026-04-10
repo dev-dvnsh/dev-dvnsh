@@ -1,6 +1,6 @@
 # Devansh Bhardwaj
 
-Creating problems and solving them.
+*Creating problems and solving them.*
 
 Backend-focused developer currently working mainly with Node.js while learning Go alongside it.
 I enjoy building tools, experimenting with ideas, and turning them into working systems.
